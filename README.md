@@ -34,7 +34,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilguptaa0/nikhilguptaa0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilguptaa0/nikhilguptaa0/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nikhilguptaa0/nikhilguptaa0/output/pacman-contribution-graph.svg">
-</picture>  
+</picture>
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nikhil-gupta-68aaa0337)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-insta-url)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-insta-url](https://www.instagram.com/whoknowsnikhil_/))  
 
 ---
 
