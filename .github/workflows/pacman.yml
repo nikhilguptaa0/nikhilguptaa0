@@ -1,0 +1,27 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight (UTC)
+  workflow_dispatch:       # Allows you to run manually from GitHub Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Graph
+        uses: yoshi389111/github-contribution-graph@main
+        with:
+          username: "nikhilguptaa0"
+          type: "pacman"
+
+      - name: Commit files
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add output/*
+          git commit -m "Updated Pac-Man contribution graph" || echo "No changes to commit"
+          git push
