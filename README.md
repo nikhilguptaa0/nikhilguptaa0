@@ -7,7 +7,7 @@
 ## 🌟 About Me  
 - 📚 Currently pursuing **Bachelor of Computer Applications (BCA)**  
 - 🐍 Strong foundation in **Python**  
-- 🌱 Exploring **Data Structures, Web Development & Flutter**  
+- 🌱 Exploring **Data Structures, Web Development**  
 - 🔭 Building cool projects like **Tourist Guide App** & **Bhejo (Instant Photo Sharing App)**  
 - ⚡ Fun fact: I love teen romcoms 🎬 and experimenting with tech 🤖  
 
@@ -23,9 +23,18 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilguptaa0&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilguptaa0&layout=compact&theme=radical)  
+
+---
+
+## 🎮 Fun Contribution Graph  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilguptaa0/nikhilguptaa0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilguptaa0/nikhilguptaa0/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nikhilguptaa0/nikhilguptaa0/output/pacman-contribution-graph.svg">
+</picture>  
 
 ---
 
@@ -37,19 +46,9 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nikhil-gupta-68aaa0337)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-insta-url)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](your-portfolio-url)  
 
 ---
 
-## 🎮 Contribution Game: Pac-Man  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-⭐️ From [Nikhil](https://github.com/YourUserName)
+⭐️ From [Nikhil](https://github.com/nikhilguptaa0)  
