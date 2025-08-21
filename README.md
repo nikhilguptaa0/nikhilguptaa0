@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Nikhil  
 
-<!--
-**nikhilguptaa0/nikhilguptaa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BCA Student | 💻 Python Enthusiast | 🚀 Future Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 📚 Currently pursuing **Bachelor of Computer Applications (BCA)**  
+- 🐍 Strong foundation in **Python**  
+- 🌱 Exploring **Data Structures, Web Development**  
+- 🔭 Building cool projects like **Tourist Guide App** & **Bhejo (Instant Photo Sharing App)**  
+- ⚡ Fun fact: I love teen romcoms 🎬 and experimenting with tech 🤖  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: Python, C, Java, SQL  
+- **Web**: HTML, CSS, JavaScript  
+- **Mobile**: Flutter (beginner 🚀)  
+- **Database**: MySQL, SQLite  
+- **Tools**: Git, VS Code  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
+
+---
+
+## 📂 Featured Projects  
+- 🌍 [Tourist Guide App](#) – A hackathon project to explore places easily  
+- 📸 [Bhejo](#) – Direct photo sharing without groups/broadcasts  
+- ⏰ [Reminder Bot](#) – A college reminder bot made with Python  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/
+nikhil-gupta-68aaa0337
+)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-insta-url)  
+
+---
+
+⭐️ From [Nikhil](https://github.com/nikhilguptaa0)
