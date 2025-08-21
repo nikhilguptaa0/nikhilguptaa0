@@ -1,13 +1,17 @@
-# Hi there 👋, I'm Nikhil  
+<h1 align="center">Hey 👋 What's Up? I'm Nikhil</h1>
 
-🎓 2nd Year BCA Student | 💻 Python Enthusiast | 🚀 Future Software Developer  
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,java,flutter,html,css,js,mysql,sqlite,git,vscode" height="60" />
+</div>
 
 ---
 
 ## 🌟 About Me  
-- 📚 Currently pursuing **Bachelor of Computer Applications (BCA)**  
+- 🎓 2nd Year BCA Student  
 - 🐍 Strong foundation in **Python**  
-- 🌱 Exploring **Data Structures, Web Development**  
+- 🌱 Exploring **Data Structures, Web Development & Flutter**  
 - 🔭 Building cool projects like **Tourist Guide App** & **Bhejo (Instant Photo Sharing App)**  
 - ⚡ Fun fact: I love teen romcoms 🎬 and experimenting with tech 🤖  
 
@@ -22,10 +26,17 @@
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical" height="150" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YourUserName&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=YourUserName&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
+</div>
 
 ---
 
@@ -37,11 +48,17 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/
-nikhil-gupta-68aaa0337
-)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-insta-url)  
+<div align="center">
+  <a href="your-linkedin-url"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
+  <a href="your-insta-url"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" /></a>
+  <a href="your-portfolio-url"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=black&logoColor=white&style=for-the-badge" height="25" /></a>
+</div>
 
 ---
 
-⭐️ From [Nikhil](https://github.com/nikhilguptaa0)
+## 🐍 Contribution Snake Game  
+![snake gif](https://github.com/YourUserName/YourUserName/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+⭐️ From [Nikhil](https://github.com/YourUserName)
