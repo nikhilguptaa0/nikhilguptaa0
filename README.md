@@ -9,7 +9,7 @@
 - 🐍 Strong foundation in **Python**  
 - 🌱 Exploring **Data Structures, Web Development**  
 - 🔭 Building cool projects like **Tourist Guide App** & **Bhejo (Instant Photo Sharing App)**  
-- ⚡ Fun fact: I love teen romcoms 🎬 and experimenting with tech 🤖  
+- ⚡ Fun fact: I love cinema 🎬 and experimenting with tech 🤖  
 
 ---
 
