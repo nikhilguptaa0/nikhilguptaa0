@@ -13,14 +13,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages**: Python, C, Java, SQL  
-- **Web**: HTML, CSS, JavaScript  
-- **Mobile**: Flutter (beginner 🚀)  
-- **Database**: MySQL, SQLite  
-- **Tools**: Git, VS Code  
-
----
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilguptaa0&show_icons=true&theme=radical)  
